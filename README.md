@@ -45,17 +45,17 @@ GET /api/patients: View all patients.
 
 ## Folder Structure
 
-   Doctor-Patient-Appointment/
-├── client/                # Frontend code
-├── config/                # Configuration files
-├── controllers/           # Application logic for handling API requests
-├── middlewares/           # Middleware for request handling
-├── models/                # Database models
-├── node_modules/          # Project dependencies
-├── package-lock.json      # Lockfile for dependencies
-├── package.json           # Project metadata and dependencies
-├── routes/                # API route definitions
-└── server.js              # Main entry point for the server
+Doctor-Patient-Appointment/
+├── client/ # Frontend code
+├── config/ # Configuration files
+├── controllers/ # Application logic for handling API requests
+├── middlewares/ # Middleware for request handling
+├── models/ # Database models
+├── node_modules/ # Project dependencies
+├── package-lock.json # Lockfile for dependencies
+├── package.json # Project metadata and dependencies
+├── routes/ # API route definitions
+└── server.js # Main entry point for the server
 
 ## Technologies Used
 
