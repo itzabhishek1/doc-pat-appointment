@@ -59,10 +59,10 @@ GET /api/patients: View all patients.
 
 ## Technologies Used
 
-Backend: Node.js, Express
-Frontend: React 
-Database: MongoDB 
-Authentication: JWT
+1. Backend: Node.js, Express
+2. Frontend: React 
+3. Database: MongoDB 
+4. Authentication: JWT
 
 ## Contributing
 
