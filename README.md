@@ -44,7 +44,7 @@ GET /api/patients: View all patients.
 4. Appointment Management: Patients can view and cancel their appointments.
 
 ## Folder Structure
-
+```
 Doctor-Patient-Appointment/
 ├── client/ # Frontend code
 ├── config/ # Configuration files
@@ -56,7 +56,7 @@ Doctor-Patient-Appointment/
 ├── package.json # Project metadata and dependencies
 ├── routes/ # API route definitions
 └── server.js # Main entry point for the server
-
+```
 ## Technologies Used
 
 1. Backend: Node.js, Express
